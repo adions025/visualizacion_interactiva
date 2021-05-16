@@ -23,12 +23,23 @@ Algunas de las librerías que se han usado son: Padas, Numpy, Matplotlib.
 
 ### Visualisations Flourish
 
+#### Data on COVID-19 vaccination in the EU/EEA
+
 ### Número de dosis administrada por país y por tipo de vacuna
 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/6160724"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+### Tipo y cantidad de vacunas por país
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/6162869"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ### Vacunas administradas (primera dosis, segunda y dosis totales) por semanas
 <div class="flourish-embed flourish-chart" data-src="visualisation/6160545"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+##### Data on the daily number of new reported COVID-19 cases and deaths by EU/EEA country
+
+### Muertes registradas a causa de COVID por país
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/6162900"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Author 
 
