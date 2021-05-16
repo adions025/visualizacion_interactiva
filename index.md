@@ -12,7 +12,9 @@ Los datos han sido descargados desde la página oficina European Centre for Dise
 ## Exploración de los datos 
 
 El primer contacto con el dataset ha sido realizado usando Jupyter Notebook en un conda enviroment que ejecuta la versión 3.6 de Python. 
-Las librería que se han usado son las usadas en este documento, entre las principales se tiene que destacar, Padas, Numpy, Matplotlib.
+Algunas de las librerías que se han usado son: Padas, Numpy, Matplotlib.
+
+- <a href="https://github.com/adions025/visualizacion_interactiva/blob/gh-pages/PEC3_adonis_gonzalez.html" title="Exploración formato web">Exploración formato web</a>
 
 - [Github - Jupyter Notebook](https://github.com/adions025/visualizacion_interactiva/blob/gh-pages/src/PEC3_adonis_gonzalez.ipynb)
 
