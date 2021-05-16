@@ -15,6 +15,11 @@ El primer dataset se encuentra disponible en la siguiente URL: (https://www.ecdc
 
 El segundo dataset se encuentra disponible en la siguiente URL: (https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea) y contiene la información sobre la vacunación contra COVID-19 en la UE/EEE. Los datos presentados en el Rastreador de Vacunas son enviados por los países de la Unión Europea/Espacio Económico Europeo (UE/EEE) al ECDC a través del Sistema Europeo de Vigilancia dos veces por semana (martes y viernes). Los países de la UE/EEE comunican datos agregados sobre el número de dosis de vacunas distribuidas por los fabricantes en el país, el número de primeras, segundas y no especificadas dosis administradas en la población adulta (mayor de 18 años) en general, por grupos de edad y en grupos específicos, como los trabajadores sanitarios y los residentes en centros de atención a largo plazo. También se informa de las dosis por producto vacunal.
 
+
+## Exploración de los datos 
+
+En el Jupyter Notebook se encuentra disponible la exploración de los datos:
+[Jupyter Notebook](src/PEC3_adonis_gonzalez.ipynb)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
