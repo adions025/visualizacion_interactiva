@@ -1,8 +1,6 @@
-## PEC 3: Visualización interactiva
+# PEC 3: Visualización interactiva
 
-You can use the [editor on GitHub](https://github.com/adions025/visualizacion_interactiva/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-### 1. Descripción de los datos seleccionados
+## 1. Descripción de los datos seleccionados
 
 Los dataset seleccionados para esta pec son los siguientes:
 
@@ -13,11 +11,15 @@ Los datos han sido descargados desde la página oficina European Centre for Dise
 
 ## Exploración de los datos 
 
-En el Jupyter Notebook se encuentra disponible la exploración de los datos:
-[Jupyter Notebook](src/PEC3_adonis_gonzalez.ipynb)
+El primer contacto con el dataset ha sido realizado usando Jupyter Notebook en un conda enviroment que ejecuta la versión 3.6 de Python. 
+Las librería que se han usado son las usadas en este documento, entre las principales se tiene que destacar, Padas, Numpy, Matplotlib.
 
-### Visualisations
+- [Github - Jupyter Notebook](https://github.com/adions025/visualizacion_interactiva/blob/gh-pages/src/PEC3_adonis_gonzalez.ipynb)
 
+- [Download - Jupyter Notebook](src/PEC3_adonis_gonzalez.ipynb)
+
+
+### Visualisations Flourish
 
 ### Número de dosis administrada por país y por tipo de vacuna
 
@@ -25,11 +27,6 @@ En el Jupyter Notebook se encuentra disponible la exploración de los datos:
 
 ### Vacunas administradas (primera dosis, segunda y dosis totales) por semanas
 <div class="flourish-embed flourish-chart" data-src="visualisation/6160545"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adions025/visualizacion_interactiva/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Author 
 
