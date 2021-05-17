@@ -18,7 +18,7 @@ Los datos han sido descargados desde la página oficina European Centre for Dise
 El primer contacto con el dataset ha sido realizado usando Jupyter Notebook en un conda enviroment que ejecuta la versión 3.6 de Python. 
 Algunas de las librerías que se han usado son: Padas, Numpy, Matplotlib.
 
-- [Exploración formato (web)](https://adions025.github.io/visualizacion_interactiva/PEC3_adonis_gonzalez.html)
+- [Exploración formato (web)](https://adions025.github.io/visualizacion_interactiva/PEC3_adonis_gonzalez.html//?target=_blank))
 
 - [Github - Jupyter Notebook](https://github.com/adions025/visualizacion_interactiva/blob/gh-pages/src/PEC3_adonis_gonzalez.ipynb)
 
@@ -57,25 +57,19 @@ Después del primer contacto con el dataset se intentará responder a las siguie
 ### 5.1 Conclusiones de las visualizaciones
 
 - Alemania es el país que se ha administrado más la segunda dosis.
-
 - Alemania, Italia y España son los países que más vacunas han administrado.
-
 - Se puede observar que en la semana número 17 del 2021 fue cuando se administró más dosis.
-
 - Las vacunas más administradas en Europa son:
     - CN = BBIBV-CorV –CNBG
     - SPU = Sputnik V -Gamaleya 
     - COM = Comirnaty –Pfizer/BioNTech
-
 - Los países con más casos reportados son Francia, Italia, Alemania y España.
-
 - Los países con más muertes reportadas por COVID son:
     - Italia
     - Francia
     - Alemania
     - España
     - Polonia
-    
 - En el mes de febrero se ha reportados más casos y más muertes por COVID.
 
 ### 5.2 Herramientas
