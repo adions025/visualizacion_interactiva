@@ -11,7 +11,7 @@ Los datos han sido descargados desde la página oficina European Centre for Dise
 
 ### 1.1 Los datos
 
-- [Datasets](https://github.com/adions025/visualizacion_interactiva/blob/gh-pages/data)
+- [Datasets](https://github.com/adions025/visualizacion_interactiva/blob/gh-pages/data){:target="_blank"}
 
 ## 2. Exploración de los datos 
 
@@ -20,7 +20,7 @@ Algunas de las librerías que se han usado son: Padas, Numpy, Matplotlib.
 
 - [Exploración formato (web)](https://adions025.github.io/visualizacion_interactiva/PEC3_adonis_gonzalez.html){:target="_blank"}
 
-- [Github - Jupyter Notebook](https://github.com/adions025/visualizacion_interactiva/blob/gh-pages/src/PEC3_adonis_gonzalez.ipynb)
+- [Github - Jupyter Notebook](https://github.com/adions025/visualizacion_interactiva/blob/gh-pages/src/PEC3_adonis_gonzalez.ipynb){:target="_blank"}
 
 - [Download - Jupyter Notebook](src/PEC3_adonis_gonzalez.ipynb)
 
@@ -31,7 +31,7 @@ datos más comunes, desde simples gráficos de barras hasta heatmaps.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FNuArSJOAu8aoMDVxHIGkx5%2FFigma-Charts-Infographics-UI-kit-Community%3Fnode-id%3D1253%253A275193" allowfullscreen></iframe>
 
-- [Mockup (web)](https://adions025.github.io/visualizacion_interactiva/mockup_vaccination.html)
+- [Mockup (web)](https://adions025.github.io/visualizacion_interactiva/mockup_vaccination.html){:target="_blank"}
 
 ## 4. Visualisations
 
@@ -45,12 +45,12 @@ Después del primer contacto con el dataset se intentará responder a las siguie
 
 #### Data on COVID-19 vaccination in the EU/EEA
 
-- [Flourish - Vaccination](https://adions025.github.io/visualizacion_interactiva/flourish_vaccination.html)
+- [Flourish - Vaccination](https://adions025.github.io/visualizacion_interactiva/flourish_vaccination.html){:target="_blank"}
 
 #### Data on the daily number of new reported COVID-19 cases and deaths by EU/EEA country
 
-- [Flourish - Daily reported](https://adions025.github.io/visualizacion_interactiva/flourish_daily_reported.html)
-- [RawGraphs - Daily reported](https://adions025.github.io/visualizacion_interactiva/rawgraphs_reported.html)
+- [Flourish - Daily reported](https://adions025.github.io/visualizacion_interactiva/flourish_daily_reported.html){:target="_blank"}
+- [RawGraphs - Daily reported](https://adions025.github.io/visualizacion_interactiva/rawgraphs_reported.html){:target="_blank"}
 
 ## 5. Conclusiones
 
