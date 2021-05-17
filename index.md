@@ -21,17 +21,15 @@ Algunas de las librerías que se han usado son: Padas, Numpy, Matplotlib.
 - [Download - Jupyter Notebook](src/PEC3_adonis_gonzalez.ipynb)
 
 
-### Visualisations Flourish
+### Visualisations
 
 #### Data on COVID-19 vaccination in the EU/EEA
 
-- [Flourish](https://adions025.github.io/visualizacion_interactiva/flourish.html)
+- [Flourish - Vaccination](https://adions025.github.io/visualizacion_interactiva/flourish_vaccination.html)
 
-##### Data on the daily number of new reported COVID-19 cases and deaths by EU/EEA country
+### Data on the daily number of new reported COVID-19 cases and deaths by EU/EEA country
 
-### Muertes registradas a causa de COVID por país
-
-<div class="flourish-embed flourish-hierarchy" data-src="visualisation/6162900"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+- [Flourish - Daily reported](https://adions025.github.io/visualizacion_interactiva/flourish_daily_reported.html)
 
 ### Author 
 
