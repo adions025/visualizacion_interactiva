@@ -18,7 +18,7 @@ Los datos han sido descargados desde la página oficina European Centre for Dise
 El primer contacto con el dataset ha sido realizado usando Jupyter Notebook en un conda enviroment que ejecuta la versión 3.6 de Python. 
 Algunas de las librerías que se han usado son: Padas, Numpy, Matplotlib.
 
-- [Exploración formato (web)](https://adions025.github.io/visualizacion_interactiva/PEC3_adonis_gonzalez.html/?target=_blank))
+- [Exploración formato (web)](https://adions025.github.io/visualizacion_interactiva/PEC3_adonis_gonzalez.html){:target="_blank"}
 
 - [Github - Jupyter Notebook](https://github.com/adions025/visualizacion_interactiva/blob/gh-pages/src/PEC3_adonis_gonzalez.ipynb)
 
