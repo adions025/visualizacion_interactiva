@@ -23,6 +23,8 @@ Algunas de las librerías que se han usado son: Padas, Numpy, Matplotlib.
 
 ### Visualisations Flourish
 
+- [Flourish](https://adions025.github.io/visualizacion_interactiva/flourish.html)
+
 #### Data on COVID-19 vaccination in the EU/EEA
 
 ### Número de dosis administrada por país y por tipo de vacuna
