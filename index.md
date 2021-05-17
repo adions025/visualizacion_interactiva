@@ -9,7 +9,11 @@ Los dataset seleccionados para esta pec son los siguientes:
 
 Los datos han sido descargados desde la página oficina European Centre for Disease Prevention and Control. Los datos son públicos siempre que se reconozca al CEPCE como la fuente original del material. La última fecha registrada de actualización de los datos fue el día 13 de Mayo del 2021.
 
-## Exploración de los datos 
+### 1.1 Los datos
+
+- [Datasets](https://github.com/adions025/visualizacion_interactiva/blob/gh-pages/data)
+
+## 2. Exploración de los datos 
 
 El primer contacto con el dataset ha sido realizado usando Jupyter Notebook en un conda enviroment que ejecuta la versión 3.6 de Python. 
 Algunas de las librerías que se han usado son: Padas, Numpy, Matplotlib.
