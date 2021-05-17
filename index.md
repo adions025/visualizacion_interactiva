@@ -24,14 +24,17 @@ Algunas de las librerías que se han usado son: Padas, Numpy, Matplotlib.
 
 - [Download - Jupyter Notebook](src/PEC3_adonis_gonzalez.ipynb)
 
+## 3. Mockup
 
-### Visualisations
+- [Mockup (web)](https://adions025.github.io/visualizacion_interactiva/mockup_vaccination.html)
+
+## 4. Visualisations
 
 #### Data on COVID-19 vaccination in the EU/EEA
 
 - [Flourish - Vaccination](https://adions025.github.io/visualizacion_interactiva/flourish_vaccination.html)
 
-### Data on the daily number of new reported COVID-19 cases and deaths by EU/EEA country
+#### Data on the daily number of new reported COVID-19 cases and deaths by EU/EEA country
 
 - [Flourish - Daily reported](https://adions025.github.io/visualizacion_interactiva/flourish_daily_reported.html)
 
