@@ -46,6 +46,7 @@ Después del primer contacto con el dataset se intentará responder a las siguie
 #### Data on COVID-19 vaccination in the EU/EEA
 
 - [Flourish - Vaccination](https://adions025.github.io/visualizacion_interactiva/flourish_vaccination.html){:target="_blank"}
+- [Tableu public](https://public.tableau.com/profile/adonis.gonz.lez#!/vizhome/DataonCOVID-19vaccinationintheEUEEA/Dashboard1?publish=yes){:target="_blank"}
 
 #### Data on the daily number of new reported COVID-19 cases and deaths by EU/EEA country
 
