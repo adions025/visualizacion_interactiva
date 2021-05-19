@@ -1,5 +1,8 @@
 # PEC 3: Visualización interactiva
 
+#### @Author
+    Adonis González Godoy
+    
 ## 1. Descripción de los datos seleccionados
 
 Los dataset seleccionados para esta pec son los siguientes:
